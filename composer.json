@@ -1,0 +1,16 @@
+{
+    "name": "sharekhan/sharekhanapiphp",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sharekhan\\Sharekhanapiphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sharekhan"
+        }
+    ],
+    "require": {}
+}
